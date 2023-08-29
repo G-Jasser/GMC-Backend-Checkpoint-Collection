@@ -9,3 +9,4 @@ ExpressJS, Mongoose, MongoDB
     - add a link to your MongoDB Atlas URI: `MONGO_URI = mongodb://[username:password@]host1[:port1][,...hostN[:portN]][/[defaultauthdb][?options]]`
 - Run `npm start` to start the server
 - You can use [Postman](https://www.postman.com) to test the API calls to the server.
+    - Import the backup file `User Collection GMC Checkpoint.postman_collection.json` to find a ready-to-use CRUD API collection
