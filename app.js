@@ -1,6 +1,6 @@
 require('dotenv').config()
 const mongoose = require('mongoose')
-
+//old
 const PersonModel = require('./src/schemas/personSchema')
 
 main().catch((err) => console.log(err))
